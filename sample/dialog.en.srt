@@ -1,0 +1,80 @@
+1
+00:00:00,000 --> 00:00:02,500
+Good morning! Did you sleep well?
+
+2
+00:00:03,000 --> 00:00:05,500
+Not really, the neighbour was loud.
+
+3
+00:00:06,000 --> 00:00:08,500
+Again? What did he do?
+
+4
+00:00:09,000 --> 00:00:11,500
+He played the piano at three o'clock.
+
+5
+00:00:12,000 --> 00:00:14,500
+At three in the morning?
+
+6
+00:00:15,000 --> 00:00:17,500
+Yes, and not particularly well.
+
+7
+00:00:18,000 --> 00:00:20,500
+Do you want a coffee?
+
+8
+00:00:21,000 --> 00:00:23,500
+Yes please, with a little milk.
+
+9
+00:00:24,000 --> 00:00:26,500
+Unfortunately we're out of milk.
+
+10
+00:00:27,000 --> 00:00:29,500
+Then I'll quickly go shopping.
+
+11
+00:00:30,000 --> 00:00:32,500
+Take an umbrella with you!
+
+12
+00:00:33,000 --> 00:00:35,500
+But it isn't raining at all.
+
+13
+00:00:36,000 --> 00:00:38,500
+Not yet. Look out the window.
+
+14
+00:00:39,000 --> 00:00:41,500
+Oh, the clouds are pretty dark.
+
+15
+00:00:42,000 --> 00:00:44,500
+See? I'm always right.
+
+16
+00:00:45,000 --> 00:00:47,500
+Almost always.
+
+17
+00:00:48,000 --> 00:00:50,500
+Please also buy bread and cheese.
+
+18
+00:00:51,000 --> 00:00:53,500
+Anything else?
+
+19
+00:00:54,000 --> 00:00:56,500
+No, that's all. Thanks!
+
+20
+00:00:57,000 --> 00:00:59,500
+See you soon!
+

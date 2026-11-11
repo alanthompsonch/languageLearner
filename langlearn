@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+# Plays a video/audio file inside the kitty terminal with the language learner hotkeys.
+# Usage: langlearn <file> [more mpv options, e.g. --sub-file=de.srt]
+
+# Settings
+LAYOUT=ch          # keyboard layout for Shift+digit: ch (Swiss German) or us
+CONTEXT_LINES=2    # lines shown before/after the current subtitle in expanded mode (e)
+
+dir="$(dirname "$(readlink -f "$0")")"
+# --no-config: ignore ~/.config/mpv so the behaviour is the same on every machine
+exec mpv \
+    --no-config \
+    --vo=kitty \
+    --vo-kitty-use-shm=no \
+    --profile=sw-fast \
+    --really-quiet \
+    --force-window=yes \
+    --sub-auto=fuzzy \
+    --script="$dir/learner.lua" \
+    --script-opts="learner-layout=$LAYOUT,learner-context_lines=$CONTEXT_LINES" \
+    "$@"
